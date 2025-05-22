@@ -6,4 +6,4 @@
 This website built using HTML and CSS
 </p>
 
-![alt text]('./images/Screenshot 2025-05-22 192811.png')
+<img src="/images/Screenshot 2025-05-22 192811.png" alt="Website Img"/>
